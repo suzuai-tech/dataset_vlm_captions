@@ -1,6 +1,7 @@
-# dataset_vlm_captions
-
 Ollama の VLM（Vision Language Model）を使って、画像からキャプションを生成し、同名の `.txt` ファイルとして保存するツールです。
+
+詳細はこちらのページで解説しています。
+https://night-dev.com/blog/dataset-caption-vlm-qwen/
 
 - 単一画像ファイル、または画像フォルダをまとめて処理できます
 - `--target` で指定した対象語（例: `face`）を、プロンプト上で除外対象として扱います
