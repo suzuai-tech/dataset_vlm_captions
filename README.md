@@ -11,7 +11,7 @@ Ollama の VLM（Vision Language Model）を使って、画像からキャプシ
 
 ### 入力画像
 
-![sample image](sample/sample.png)
+<img src="sample/sample.png" width="320" alt="sample image">
 
 ### 実行例
 
